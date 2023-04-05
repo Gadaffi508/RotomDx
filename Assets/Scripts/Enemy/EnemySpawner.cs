@@ -62,7 +62,6 @@ public class EnemySpawner : MonoBehaviour
         else if(enemy is Wind)
         {
             rndmPos = Random.Range(0, 2);
-            Debug.Log(rndmPos);
             Transform t = spawnPosition[rndmPos];
             UyariDirection(rndmPos);
             GameObject wind = Instantiate(enemy, t.position, Quaternion.identity).gameObject;
@@ -99,9 +98,5 @@ public class EnemySpawner : MonoBehaviour
     {
         warnings[index].gameObject.SetActive(true); 
         warnings[index].StartWarning();
-    }
-    private GameObject NewWind()
-    {
-        return NewWind();
     }
 }

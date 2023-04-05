@@ -97,7 +97,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.02688098, y: -0.0678426}
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Thrust: 100
-  damage: 10
+  damage: 5
 --- !u!1 &1337423571110924980
 GameObject:
   m_ObjectHideFlags: 0
@@ -245,7 +245,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.02688098, y: -0.0678426}
@@ -295,7 +295,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Thrust: 100
-  damage: 10
+  damage: 5
 --- !u!1 &1561031771980927924
 GameObject:
   m_ObjectHideFlags: 0
@@ -393,7 +393,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.02688098, y: -0.0678426}
@@ -443,7 +443,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Thrust: 100
-  damage: 10
+  damage: 5
 --- !u!1 &3777347305587475091
 GameObject:
   m_ObjectHideFlags: 0
@@ -541,7 +541,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.02688098, y: -0.0678426}
@@ -591,7 +591,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Thrust: 100
-  damage: 10
+  damage: 5
 --- !u!1 &4314209847671710063
 GameObject:
   m_ObjectHideFlags: 0
@@ -728,7 +728,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.02688098, y: -0.0678426}
@@ -778,7 +778,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Thrust: 100
-  damage: 10
+  damage: 5
 --- !u!1 &6592870864459769800
 GameObject:
   m_ObjectHideFlags: 0
@@ -876,7 +876,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.02688098, y: -0.0678426}
@@ -926,7 +926,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Thrust: 100
-  damage: 10
+  damage: 5
 --- !u!1 &8244062649299677687
 GameObject:
   m_ObjectHideFlags: 0
@@ -1024,7 +1024,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.02688098, y: -0.0678426}
@@ -1074,7 +1074,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Thrust: 100
-  damage: 10
+  damage: 5
 --- !u!1 &8540163014767007216
 GameObject:
   m_ObjectHideFlags: 0
@@ -1172,7 +1172,7 @@ BoxCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: -0.02688098, y: -0.0678426}
@@ -1222,4 +1222,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Thrust: 100
-  damage: 10
+  damage: 5

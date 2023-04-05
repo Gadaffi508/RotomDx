@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 8829612486757037028}
   - component: {fileID: 8188714072061741829}
   - component: {fileID: 5660438752685556003}
+  - component: {fileID: -5812948720113951209}
   m_Layer: 0
   m_Name: "sald\u0131r\u01313"
   m_TagString: ruz
@@ -118,7 +119,7 @@ PolygonCollider2D:
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
@@ -160,3 +161,16 @@ MonoBehaviour:
   m_Rigidbody: {fileID: 8829612486757037028}
   randomx: 0
   spt: {fileID: 6351498357393578922}
+--- !u!114 &-5812948720113951209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9140519069128828747}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a61c5bb78b59c09409bc3133001fccf7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 5
